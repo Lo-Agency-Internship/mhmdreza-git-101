@@ -18,3 +18,8 @@ First activity in LoAgency
 |**push :**|Allows us to Add or Update a project to remote repository like Github.|
 |**repository :**|Where we can store our files
 |**stash :**|
+
+***
+|**clone :**| clone is creat a copy of a spacific repository from remote repository. |
+|**rebase :**| it allows us edite or integrate changes the commits. |
+|cherrypick :**| let us to choose particular command from one branch and apply onto another one. |  
