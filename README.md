@@ -20,6 +20,8 @@ First activity in LoAgency
 |**stash :**|
 
 ***
+
+|  **Words**  |**Describtion**|
 | :---------| :----------------------------------------------------------------------|
 | clone     | clone is creat a copy of a spacific repository from remote repository. |
 | rebase    | it allows us edite or integrate changes the commits.                  |
