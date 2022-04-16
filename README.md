@@ -20,6 +20,7 @@ First activity in LoAgency
 |**stash :**|
 
 ***
-|**clone :**| clone is creat a copy of a spacific repository from remote repository. |
-|**rebase :**| it allows us edite or integrate changes the commits. |
-|cherrypick :**| let us to choose particular command from one branch and apply onto another one. |  
+| :---------| :----------------------------------------------------------------------|
+| clone     | clone is creat a copy of a spacific repository from remote repository. |
+| rebase    | it allows us edite or integrate changes the commits.                  |
+|cherrypick | let us to choose particular command from one branch and apply onto another one. |  
